@@ -7,6 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Text dataset example
 
 We will use the text dataset of Longitudinal MRI Data in Nondemented and Demented Older Adults
+![image](Alzheimer_image_Dataset/all image/mildDem0.jpg)
 
 ```markdown
 Syntax highlighted code block
@@ -24,7 +25,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-![image](Alzheimer_image_Dataset/all image/mildDem0.jpg)
+
 ```
 ### Image dataset example
 
