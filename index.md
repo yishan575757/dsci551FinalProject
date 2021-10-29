@@ -38,7 +38,7 @@ We will use the image dataset of Alzheimer_image_Dataset
 
 Here is an example of a mild Demonted MRI photo: 
 
-![imagecanbeshown](https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
+![](https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
 
 ![image](https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
 
