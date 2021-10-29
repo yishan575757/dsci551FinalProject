@@ -1,8 +1,5 @@
 ## Dsci551 Final Project 
 
-You can use the [editor on GitHub](https://github.com/yishan575757/dsci551FinalProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Text dataset example
 
@@ -10,27 +7,18 @@ We will use the text dataset of Longitudinal MRI Data in Nondemented and Demente
 
 
 ```markdown
-Syntax highlighted code block
+Here is an example of the first five rows of our text dataset. 
 
-# Header 1
-## Header 2
-### Header 3
+|  Age  |  EDUC |    SES    |  MMSE | CDR | eTIV | nWBV| ASF |gender|   Group   |
+|-------|-------|-----------|-------|-----|------|-----|-----|------|-----------|
+|  87.0 |  14.0 |  2.000000 |  27.0 | 0.0 |1987.0|0.969|0.883|  0.0 |Nondemented|
+|  88.0 |  14.0 |  2.000000 |  30.0 | 0.0 |2004.0|0.876|0.876|  0.0 |Nondemented|
+|  75.0 |  12.0 |  3.168473 |  23.0 | 0.5 |1678.0|0.736|1.046|  0.0 |   Demented|
+|  76.0 |  12.0 |  3.096041 |  28.0 | 0.5 |1738.0|0.713|1.010|  0.0 |   Demented|
+|  80.0 |  12.0 |  3.134898 |  22.0 | 0.5 |1698.0|0.701|1.034|  0.0 |   Demented|
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-![image](https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
-![alt text](https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
-![image info](https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
-<img src="https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg">
 
 ```
 ### Image dataset example
@@ -61,10 +49,18 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![image](https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
+![alt text](https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
+![image info](https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
+<img src="https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg">
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+
+
+You can use the [editor on GitHub](https://github.com/yishan575757/dsci551FinalProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yishan575757/dsci551FinalProject/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
