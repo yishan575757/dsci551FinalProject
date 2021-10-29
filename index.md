@@ -1,12 +1,13 @@
 ## Dsci551 Final Project 
 
+[editor on GitHub](https://github.com/yishan575757/dsci551FinalProject/edit/gh-pages/index.md)
 
 ### Text dataset example
 
 We will use the text dataset of Longitudinal MRI Data in Nondemented and Demented Older Adults
 
 
-```markdown
+````markdown
 Here is an example of the first five rows of our text dataset. 
 
 |  Age  |  EDUC |    SES    |  MMSE | CDR | eTIV | nWBV| ASF |gender|   Group   |
@@ -20,7 +21,7 @@ Here is an example of the first five rows of our text dataset.
 
 
 
-```
+````
 ### Image dataset example
 
 We will use the image dataset of Alzheimer_image_Dataset
