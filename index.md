@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 We will use the text dataset of Longitudinal MRI Data in Nondemented and Demented Older Adults
 
-![image](Alzheimer_image_Dataset/all_image/mildDem0.jpg)
+![image](https://github.com/yizhan575757/dsci551FinalProject/Alzheimer_image_Dataset/all_image/mildDem0.jpg)
 ![alt text](https://github.com/yizhan575757/dsci551FinalProject/Alzheimer_image_Dataset/all_image/mildDem0.jpg?raw=true)
 ![image info](./dsci551FinalProject/Alzheimer_image_Dataset/all_image/mildDem0.jpg)
 
@@ -28,6 +28,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+![image](https://github.com/yizhan575757/dsci551FinalProject/Alzheimer_image_Dataset/all_image/mildDem0.jpg)
 
 ```
 ### Image dataset example
