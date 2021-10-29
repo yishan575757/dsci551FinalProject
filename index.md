@@ -10,6 +10,7 @@ We will use the text dataset of Longitudinal MRI Data in Nondemented and Demente
 
 ![image](Alzheimer_image_Dataset/all_image/mildDem0.jpg)
 ![alt text](https://github.com/yizhan575757/dsci551FinalProject/Alzheimer_image_Dataset/all_image/mildDem0.jpg?raw=true)
+![image info](./dsci551FinalProject/Alzheimer_image_Dataset/all_image/mildDem0.jpg)
 
 ```markdown
 Syntax highlighted code block
