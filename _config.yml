@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [DSCI 551 Final Project]
 description: [Extracting Information From MRI Images to Predict Alzheimer's Disease Using Machine Learning]
-author: [Yishan Li and Xinyue Yu]
+description: [Yishan Li and Xinyue Yu]
