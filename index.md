@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Dsci551 Final Project 
 
 You can use the [editor on GitHub](https://github.com/yishan575757/dsci551FinalProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
