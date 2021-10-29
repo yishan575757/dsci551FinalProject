@@ -8,9 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 We will use the text dataset of Longitudinal MRI Data in Nondemented and Demented Older Adults
 
-![image](https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
-![alt text](https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
-![image info](https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
 
 ```markdown
 Syntax highlighted code block
@@ -28,13 +25,19 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-![image](https://github.com/yizhan575757/dsci551FinalProject/Alzheimer_image_Dataset/all_image/mildDem0.jpg)
+
+![image](https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
+![alt text](https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
+![image info](https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
 
 ```
 ### Image dataset example
 
 We will use the image dataset of Alzheimer_image_Dataset
 
+Here is an example of a mild Demonted MRI photo: 
+
+![image](https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
 ```markdown
 Syntax highlighted code block
 
