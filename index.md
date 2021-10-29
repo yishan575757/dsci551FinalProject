@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Text dataset example
 
-We will use the text dataset for Longitudinal MRI Data in Nondemented and Demented Older Adults
+We will use the text dataset of Longitudinal MRI Data in Nondemented and Demented Older Adults
 
 ```markdown
 Syntax highlighted code block
@@ -25,7 +25,27 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### Image dataset example
 
+We will use the image dataset of Alzheimer_image_Dataset
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
