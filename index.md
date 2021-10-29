@@ -24,6 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+![image](Alzheimer_image_Dataset/all image/mildDem0.jpg)
 ```
 ### Image dataset example
 
