@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 We will use the text dataset of Longitudinal MRI Data in Nondemented and Demented Older Adults
 
 ![image](Alzheimer_image_Dataset/all image/mildDem0.jpg)
-![alt text](https://github.com/yizhan575757/dsci551FinalProject/Alzheimer_image_Dataset/all image/mildDem0.jpg?raw=true)
+![alt text](https://github.com/yizhan575757/dsci551FinalProject/Alzheimer_image_Dataset/all_image/mildDem0.jpg?raw=true)
 
 ```markdown
 Syntax highlighted code block
