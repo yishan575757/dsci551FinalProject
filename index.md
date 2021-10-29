@@ -1,6 +1,5 @@
 ## Dsci551 Final Project 
 
-[editor on GitHub](https://github.com/yishan575757/dsci551FinalProject/edit/gh-pages/index.md)
 
 ### Text dataset example
 
@@ -36,6 +35,9 @@ Here is an example of a mild Demonted MRI photo:
 
 
 ```markdown
+
+[editor on GitHub](https://github.com/yishan575757/dsci551FinalProject/edit/gh-pages/index.md)
+
 Syntax highlighted code block
 
 # Header 1
