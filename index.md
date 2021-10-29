@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/yishan575757/dsci551FinalP
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Text dataset example
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We will use the text dataset for Longitudinal MRI Data in Nondemented and Demented Older Adults
 
 ```markdown
 Syntax highlighted code block
