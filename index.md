@@ -43,6 +43,7 @@ Here is an example of a mild Demonted MRI photo:
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![anotherimage](https://github.com/yishan575757/dsci551FinalProject/blob/gh-pages/mildDem10.jpg)
 
 
 ```markdown
