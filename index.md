@@ -5,6 +5,13 @@
 
 We will use the text dataset of Longitudinal MRI Data in Nondemented and Demented Older Adults
 
+|  Age  |  EDUC |    SES    |  MMSE | CDR | eTIV | nWBV| ASF |gender|   Group   |
+|-------|-------|-----------|-------|-----|------|-----|-----|------|-----------|
+|  87.0 |  14.0 |  2.000000 |  27.0 | 0.0 |1987.0|0.969|0.883|  0.0 |Nondemented|
+|  88.0 |  14.0 |  2.000000 |  30.0 | 0.0 |2004.0|0.876|0.876|  0.0 |Nondemented|
+|  75.0 |  12.0 |  3.168473 |  23.0 | 0.5 |1678.0|0.736|1.046|  0.0 |   Demented|
+|  76.0 |  12.0 |  3.096041 |  28.0 | 0.5 |1738.0|0.713|1.010|  0.0 |   Demented|
+|  80.0 |  12.0 |  3.134898 |  22.0 | 0.5 |1698.0|0.701|1.034|  0.0 |   Demented|
 
 ````markdown
 Here is an example of the first five rows of our text dataset. 
@@ -16,7 +23,8 @@ Here is an example of the first five rows of our text dataset.
 |  75.0 |  12.0 |  3.168473 |  23.0 | 0.5 |1678.0|0.736|1.046|  0.0 |   Demented|
 |  76.0 |  12.0 |  3.096041 |  28.0 | 0.5 |1738.0|0.713|1.010|  0.0 |   Demented|
 |  80.0 |  12.0 |  3.134898 |  22.0 | 0.5 |1698.0|0.701|1.034|  0.0 |   Demented|
-
+- Age: Age of the patient
+- EDUC: The 
 
 
 
