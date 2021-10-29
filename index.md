@@ -30,6 +30,7 @@ Syntax highlighted code block
 ![image](https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
 ![alt text](https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
 ![image info](https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
+<img src="https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg">
 
 ```
 ### Image dataset example
@@ -38,9 +39,9 @@ We will use the image dataset of Alzheimer_image_Dataset
 
 Here is an example of a mild Demonted MRI photo: 
 
-![try1](https://github.com/yishan575757/dsci551FinalProject/blob/gh-pages/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
+![try1](https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg)
 
-<img src="https://github.com/yishan575757/dsci551FinalProject/blob/main/Alzheimer_image_Dataset/all_image/mildDem134.jpg">
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
